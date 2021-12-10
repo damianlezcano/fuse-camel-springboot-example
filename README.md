@@ -1,0 +1,1 @@
+# fuse-camel-springboot-example
